@@ -7,7 +7,7 @@ Videolar **C:\videolar** papkasiga **360p MP4** formatda saqlanadi.
 pip install yt-dlp
 
 
-⚠️ Muammolar va Yechimlar:
+⚠️ Muammolar va Yechimlar:                
 403 Forbidden --- VPN yoki boshqa formatni sinab ko‘ring.
 VideoUnavailable --- Video mavjud emas yoki maxfiy.
 No such file or directory --- C:\videolar papkasini qo‘lda yarating.
