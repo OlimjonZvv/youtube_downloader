@@ -8,6 +8,6 @@ pip install yt-dlp
 
 
 ⚠️ Muammolar va Yechimlar:                
-403 Forbidden --- VPN yoki boshqa formatni sinab ko‘ring.
-VideoUnavailable --- Video mavjud emas yoki maxfiy.
-No such file or directory --- C:\videolar papkasini qo‘lda yarating.
+403 Forbidden --- VPN yoki boshqa formatni sinab ko‘ring.    
+VideoUnavailable --- Video mavjud emas yoki maxfiy.    
+No such file or directory --- C:\videolar papkasini qo‘lda yarating.   
